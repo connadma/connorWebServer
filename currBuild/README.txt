@@ -32,5 +32,5 @@ To exit debug mode:
 - While in venv export FLASK_ENV=production
 - If running on windiws command prompt use set instead of export
 
-WHat to do next:
-- FIX DUPLICATE USERNAME BUG
+What to do next:
+- push currbuild to repo
