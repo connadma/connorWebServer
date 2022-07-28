@@ -33,4 +33,4 @@ To exit debug mode:
 - If running on windiws command prompt use set instead of export
 
 What to do next:
-- push currbuild to repo
+- pagination of blog posts
