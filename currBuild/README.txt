@@ -10,6 +10,8 @@ To prep for first run:
 - pip install flask-migrate
 - pip install flask-login
 - pip install email-validator
+- pip install flask-mail
+- pip install pyjwt
 
 To prep for additional runs:
 - python3 -m venv venv
@@ -29,8 +31,9 @@ To enter debug mode:
 - Running program while in debug mode is the same
 
 To exit debug mode:
-- While in venv export FLASK_ENV=production
-- If running on windiws command prompt use set instead of export
+- While in venv: export FLASK_ENV=production
+- If running on windows command prompt use set instead of export
 
 What to do next:
-- pagination of blog posts
+- facelift
+
