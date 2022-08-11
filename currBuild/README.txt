@@ -14,6 +14,7 @@ To prep for first run:
 - pip install pyjwt
 - pip install flask-bootstrap
 - pip install flask-moment
+- pip install langdetect
 
 To prep for additional runs:
 - python3 -m venv venv
@@ -37,5 +38,5 @@ To exit debug mode:
 - If running on windows command prompt use set instead of export
 
 What to do next:
-- ajax
+- better structure
 
